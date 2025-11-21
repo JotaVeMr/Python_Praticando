@@ -2,7 +2,7 @@
 .vscode/
 
 #arquivos .txt
-*.txt
-!requirements.txt
+*arquivo.txt
+
 
 .DS_Store
