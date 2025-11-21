@@ -1,0 +1,7 @@
+# removendo arq vscode
+.vscode/
+
+#arquivos .txt
+* .txt
+
+.DS_Store
