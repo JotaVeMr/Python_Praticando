@@ -2,6 +2,6 @@
 .vscode/
 
 #arquivos .txt
-* .txt
+*.txt
 
 .DS_Store
